@@ -49,7 +49,7 @@ h3{
   }
 /* Here I am adjusting the spacing of the info so it isn't so close to the portrait */
   .Info{
-    padding-top:100px;
+    padding-top:70px;
     display: flex;
     gap: 1rem;
   }
